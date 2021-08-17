@@ -16,3 +16,4 @@ Now, you are in a privileged position, because you are about to start a greenfie
 
 ## Extras
 1. Support for arbitrary levels of nesting in the comments, just like Reddit!
+2. You are tasked with the creation of the API, but if you want to implement the full stack, you are free to do it.
