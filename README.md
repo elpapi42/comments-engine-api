@@ -12,7 +12,7 @@ Now, you are in a privileged position, because you are about to start a greenfie
 ## Requirements
 1. The client requires that each post in his blog gets backed by a comments section, so you need a way to filter comments by blog post
 2. He wants that as a minimum the comment box gets a level of depth/nesting, that is comments that have replies. (But this can be higher if you want to assume the task)
-3. He wants to allow anonymous users that can comment anytime, but also want the option to the users to submit a nickname along with the comments.
+3. He wants to allow anonymous users that can comment anytime, but also want to give the option to the users to submit a nickname along with the comments.
 
 ## Extras
 1. Support for arbitrary levels of nesting in the comments, just like Reddit!
