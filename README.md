@@ -5,7 +5,7 @@ You are a freelancer working remotely from your home! In the morning a client co
 
 His blog is actually built with React.js for the Frontend, and he is using a custom legacy Backend for the blogs, which is very hard to maintain. He already hired a Frontend Engineer that will help to implement the comments system in the Frontend, but he needs a Backend Engineer to implement the feature in the Backend, that is the reason you are here!
 
-The problem is that you can't modify the current Backend, you don't have the knowledge for that, but as we are in 2021, you decide to implement a microservice dedicated just to this task, it will store and serve the comments of the blog! This microservice will run along the legacy backend, but will never interact with it, so this is an isolated microservice!
+The problem is that you can't modify the current Backend, you does not have access to it, so, you decide to implement a microservice dedicated just to this task, it will store and serve the comments of the blog! This microservice will run along the legacy backend, but will never interact with it, so this is an isolated microservice!
 
 Now, you are in a privileged position, because you are about to start a greenfield project, where you will take all the decisions regarding languages, libraries, technologies, and architectural patterns!
 
